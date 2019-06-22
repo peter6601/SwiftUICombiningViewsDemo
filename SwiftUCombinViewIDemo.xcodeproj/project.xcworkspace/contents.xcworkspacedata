@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:SwiftUIDemo.xcodeproj">
+      location = "self:/Users/dindin/Documents/side project/SwiftUIDemo/SwiftUCombinViewIDemo.xcodeproj">
    </FileRef>
 </Workspace>
